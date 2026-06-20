@@ -1,0 +1,258 @@
+support,itemsets,itemset_length
+0.23836821757099053,mineral water,1
+0.17970937208372217,eggs,1
+0.17411011865084655,spaghetti,1
+0.1709105452606319,french fries,1
+0.1638448206905746,chocolate,1
+0.13211571790427942,green tea,1
+0.12958272230369283,milk,1
+0.098253566,ground beef,1
+0.095320624,frozen vegetables,1
+0.095053993,pancakes,1
+0.087188375,burgers,1
+0.081055859,cake,1
+0.080389281,cookies,1
+0.079322757,escalope,1
+0.07652313,low fat yogurt,1
+0.071457139,shrimp,1
+0.068390881,tomatoes,1
+0.065857886,olive oil,1
+0.06332489,frozen smoothie,1
+0.062524997,turkey,1
+0.059992001,chicken,1
+0.05972537,"spaghetti, mineral water",2
+0.058525529929342755,whole wheat rice,1
+0.052659645,"chocolate, mineral water",2
+0.052393014,grated cheese,1
+0.051059859,cooking oil,1
+0.050926543,"eggs, mineral water",2
+0.050526596,soup,1
+0.049460072,herb & pepper,1
+0.047993601,"mineral water, milk",2
+0.047460338621517134,honey,1
+0.046793761,champagne,1
+0.043060925209972005,fresh bread,1
+0.042527663,salmon,1
+0.040927876283162246,"ground beef, mineral water",2
+0.039194774,"chocolate, spaghetti",2
+0.039194774,"ground beef, spaghetti",2
+0.036528462871617116,"eggs, spaghetti",2
+0.036395147313691506,"eggs, french fries",2
+0.03572857,"frozen vegetables, mineral water",2
+0.035461938,"spaghetti, milk",2
+0.034395414,"chocolate, french fries",2
+0.033728836,"pancakes, mineral water",2
+0.033728836,"french fries, mineral water",2
+0.033728836,brownies,1
+0.033328889,avocado,1
+0.033195574,"chocolate, eggs",2
+0.032395681,hot dogs,1
+0.032129049,"chocolate, milk",2
+0.031862418,cottage cheese,1
+0.031062525,"green tea, mineral water",2
+0.030795894,"eggs, milk",2
+0.030395947207039063,tomato juice,1
+0.030129316091187842,butter,1
+0.029462738301559793,whole wheat pasta,1
+0.028796161,"burgers, eggs",2
+0.028529529396080524,"green tea, french fries",2
+0.028129582722303693,red wine,1
+0.027862951606452472,"frozen vegetables, spaghetti",2
+0.027596320490601255,"mineral water, olive oil",2
+0.027596320490601255,"french fries, spaghetti",2
+0.027463004932675644,"cake, mineral water",2
+0.027329689374750034,yogurt cake,1
+0.027196373816824423,light mayo,1
+0.027063058258898813,energy bar,1
+0.026663111585121985,energy drink,1
+0.026529796027196375,ham,1
+0.026529796027196375,pepper,1
+0.026529796027196375,"green tea, spaghetti",2
+0.025729902679642713,vegetables mix,1
+0.025729902679642713,cereals,1
+0.025463271563791495,"green tea, eggs",2
+0.025196640447940274,"pancakes, spaghetti",2
+0.024396747100386616,"burgers, mineral water",2
+0.024396747100386616,"mineral water, tomatoes",2
+0.024130115984535395,muffins,1
+0.023996800426609784,"low fat yogurt, mineral water",2
+0.023730169310758567,"french fries, milk",2
+0.023596853752832957,"shrimp, mineral water",2
+0.023596853752832957,"frozen vegetables, milk",2
+0.023463538194907346,"chocolate, green tea",2
+0.023063591521130515,oil,1
+0.023063591521130515,"soup, mineral water",2
+0.023063591521130515,"chocolate, ground beef",2
+0.022930275963204905,"spaghetti, olive oil",2
+0.022930275963204905,"frozen vegetables, chocolate",2
+0.022796960405279298,"chicken, mineral water",2
+0.022530329289428077,french wine,1
+0.022263698173576856,fresh tuna,1
+0.021997067057725635,"burgers, french fries",2
+0.021997067057725635,"ground beef, milk",2
+0.021730435941874418,"pancakes, eggs",2
+0.021730435941874418,"frozen vegetables, eggs",2
+0.021463804826023197,"burgers, spaghetti",2
+0.021330489268097587,strawberries,1
+0.021197173710171976,"shrimp, spaghetti",2
+0.020930542594320756,meatballs,1
+0.020930542594320756,"spaghetti, tomatoes",2
+0.020397280362618318,almonds,1
+0.020263964804692707,"mineral water, frozen smoothie",2
+0.020130649246767097,"whole wheat rice, mineral water",2
+0.020130649246767097,"cooking oil, mineral water",2
+0.020130649246767097,"pancakes, french fries",2
+0.019997333688841486,"ground beef, eggs",2
+0.019864018,"chocolate, pancakes",2
+0.019864018,parmesan cheese,1
+0.019464071,"turkey, eggs",2
+0.019197440341287828,"turkey, mineral water",2
+0.019064124783362217,"frozen vegetables, french fries",2
+0.019064124783362217,mushroom cream sauce,1
+0.019064124783362217,"cake, eggs",2
+0.018797494,rice,1
+0.018530863,protein bar,1
+0.018130915877882948,"cake, spaghetti",2
+0.017997600319957337,"chocolate, shrimp",2
+0.017864285,"burgers, milk",2
+0.017864285,"cake, french fries",2
+0.017597654,"green tea, milk",2
+0.017597654,"shrimp, milk",2
+0.017597654,"chocolate, escalope",2
+0.017464338,"green tea, burgers",2
+0.017464338,mint,1
+0.017464338,"grated cheese, mineral water",2
+0.017197707,"chicken, spaghetti",2
+0.017064391414478068,"salmon, mineral water",2
+0.017064391414478068,"chocolate, burgers",2
+0.017064391414478068,"herb & pepper, mineral water",2
+0.017064391414478068,"milk, olive oil",2
+0.017064391414478068,"escalope, mineral water",2
+0.017064391414478068,"ground beef, spaghetti, mineral water",3
+0.016931076,"frozen vegetables, ground beef",2
+0.01679776,"low fat yogurt, eggs",2
+0.016664445,"frozen vegetables, shrimp",2
+0.016531129,"grated cheese, spaghetti",2
+0.016531129,"pancakes, milk",2
+0.016531129,white wine,1
+0.016531129,"turkey, spaghetti",2
+0.016397814,"green tea, pancakes",2
+0.016397814,"escalope, french fries",2
+0.016397814,"chocolate, olive oil",2
+0.016264498,"herb & pepper, spaghetti",2
+0.016131183,"frozen vegetables, tomatoes",2
+0.015997866951073192,"ground beef, herb & pepper",2
+0.015864551,"chocolate, spaghetti, mineral water",3
+0.015864551,"cooking oil, spaghetti",2
+0.015731236,pasta,1
+0.015731236,"spaghetti, milk, mineral water",3
+0.01559792,light cream,1
+0.01559792,"spaghetti, frozen smoothie",2
+0.015331289,carrots,1
+0.015197973603519531,"soup, milk",2
+0.015197973603519531,"low fat yogurt, spaghetti",2
+0.015064658045593921,"honey, mineral water",2
+0.014931342,"chocolate, frozen smoothie",2
+0.014798026929742702,"chocolate, low fat yogurt",2
+0.014798026929742702,"green tea, ground beef",2
+0.014798026929742702,"chicken, milk",2
+0.014664711371817091,"chocolate, chicken",2
+0.014531395813891481,"french fries, frozen smoothie",2
+0.014531395813891481,"ground beef, pancakes",2
+0.01439808,"frozen vegetables, green tea",2
+0.01439808,"chicken, eggs",2
+0.014264764698040262,black tea,1
+0.014264764698040262,"frozen smoothie, milk",2
+0.014264764698040262,"soup, spaghetti",2
+0.014264764698040262,"eggs, spaghetti, mineral water",3
+0.014131449140114652,"whole wheat rice, spaghetti",2
+0.014131449140114652,"ground beef, olive oil",2
+0.014131449140114652,"shrimp, eggs",2
+0.014131449140114652,tomato sauce,1
+0.014131449140114652,"cake, green tea",2
+0.013998133582189041,"chocolate, tomatoes",2
+0.013998133582189041,"escalope, spaghetti",2
+0.013998133582189041,"chocolate, mineral water, milk",3
+0.013998133582189041,"milk, tomatoes",2
+0.013864818,"ground beef, french fries",2
+0.013598186908412212,"chocolate, cooking oil",2
+0.013598186908412212,"cake, chocolate",2
+0.013598186908412212,fromage blanc,1
+0.013464871350486601,"chocolate, eggs, mineral water",3
+0.013464871350486601,"salmon, spaghetti",2
+0.013464871350486601,"frozen vegetables, pancakes",2
+0.013464871350486601,gums,1
+0.013331555792560993,"cake, milk",2
+0.013331555792560993,"low fat yogurt, french fries",2
+0.013331555792560993,"cookies, french fries",2
+0.013331555792560993,"fresh bread, mineral water",2
+0.013198240234635382,eggplant,1
+0.013198240234635382,"low fat yogurt, milk",2
+0.013064924676709772,"eggs, mineral water, milk",3
+0.012531662445007332,"eggs, herb & pepper",2
+0.012265031329156113,"green tea, tomatoes",2
+0.012265031329156113,"eggs, tomatoes",2
+0.011998400213304892,"chocolate, whole wheat rice",2
+0.011998400213304892,"green tea, cookies",2
+0.011998400213304892,"eggs, olive oil",2
+0.011998400213304892,"ground beef, burgers",2
+0.011998400213304892,melons,1
+0.011998400213304892,extra dark chocolate,1
+0.011998400213304892,"frozen vegetables, spaghetti, mineral water",3
+0.011998400213304892,"french fries, tomatoes",2
+0.011865084655379284,"whole wheat rice, milk",2
+0.011865084655379284,"honey, spaghetti",2
+0.011865084655379284,"green tea, turkey",2
+0.011865084655379284,"green tea, chicken",2
+0.011865084655379284,"cake, pancakes",2
+0.011731769097453673,"eggs, cooking oil",2
+0.011731769097453673,"ground beef, tomatoes",2
+0.011598453539528063,"chocolate, champagne",2
+0.011598453539528063,"mineral water, avocado",2
+0.011465137981602452,"green tea, shrimp",2
+0.011465137981602452,"ground beef, shrimp",2
+0.011465137981602452,"pancakes, spaghetti, mineral water",3
+0.011465137981602452,body spray,1
+0.011465137981602452,"cooking oil, milk",2
+0.011465137981602452,yams,1
+0.011465137981602452,"cake, burgers",2
+0.011331822423676844,"chocolate, turkey",2
+0.011331822423676844,"turkey, milk",2
+0.011331822423676844,"frozen vegetables, olive oil",2
+0.011331822423676844,"grated cheese, ground beef",2
+0.011198506865751233,"green tea, frozen smoothie",2
+0.011198506865751233,"shrimp, tomatoes",2
+0.011065191307825623,"frozen vegetables, mineral water, milk",3
+0.011065191307825623,"escalope, eggs",2
+0.011065191307825623,"chicken, french fries",2
+0.011065191307825623,"ground beef, mineral water, milk",3
+0.011065191307825623,"eggs, frozen smoothie",2
+0.010931875749900012,"chocolate, spaghetti, milk",3
+0.010931875749900012,"red wine, mineral water",2
+0.010931875749900012,magazines,1
+0.010931875749900012,"whole wheat rice, eggs",2
+0.010931875749900012,"grated cheese, chocolate",2
+0.010931875749900012,"chocolate, ground beef, mineral water",3
+0.010798560191974404,barbecue sauce,1
+0.010798560191974404,"pancakes, olive oil",2
+0.010665244634048793,"turkey, burgers",2
+0.010665244634048793,"chocolate, salmon",2
+0.010665244634048793,"turkey, french fries",2
+0.010531929076123183,"shrimp, pancakes",2
+0.010531929076123183,cider,1
+0.010531929076123183,"whole wheat rice, french fries",2
+0.010531929076123183,"burgers, pancakes",2
+0.010531929076123183,"frozen vegetables, burgers",2
+0.010531929076123183,"chocolate, eggs, spaghetti",3
+0.010531929076123183,"cookies, eggs",2
+0.010398613518197574,"chocolate, cookies",2
+0.010398613518197574,"grated cheese, french fries",2
+0.010398613518197574,nonfat milk,1
+0.010265297960271964,"cake, frozen vegetables",2
+0.010265297960271964,"spaghetti, mineral water, olive oil",3
+0.010265297960271964,"red wine, spaghetti",2
+0.010265297960271964,"cereals, mineral water",2
+0.010131982402346354,"french fries, spaghetti, mineral water",3
+0.010131982402346354,"ground beef, eggs, mineral water",3
+0.010131982402346354,"chocolate, soup",2
+0.010131982402346354,"frozen vegetables, low fat yogurt",2
