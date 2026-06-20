@@ -46,3 +46,21 @@ GridSearchCV was used with **3-Fold Cross-Validation**, optimizing for **ROC-AUC
       'model__min_samples_leaf': 25, 
       'model__ccp_alpha': 0.0
   }
+```
+---
+
+## Performance & Results
+The regularized tree achieved high robustness without suffering from overfitting:
+
+### Key Metrics
+
+* Cross-Validation ROC-AUC: 0.8838
+* Train ROC-AUC: 0.8861 | Test ROC-AUC: 0.8744
+* Train Accuracy: 85.34% | Test Accuracy: 84.53%
+
+---
+
+## Key Insights
+
+* Strongest Predictor: The borrower's FICO Score range was identified as the most prominent indicator of credit risk.
+* Secondary Risk Factors: Loan term length, gender, and age groups significantly added feature weights to the node splits.
