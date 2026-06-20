@@ -3,7 +3,7 @@
 ## 📌 Project Overview & Objective
 In the banking and lending industry, identifying high-risk borrowers who might delay or fail to make payments is crucial for effective risk management. 
 
-This repository implements an end-to-end Machine Learning pipeline utilizing a **CART (Classification and Regression Trees) Decision Tree** model to predict whether a loan customer is likely to become **delinquent**. By identifying high-risk borrowers early, financial institutions can proactively mitigate credit risks, optimize monitoring strategies, and reduce potential credit defaults.
+This project implements an end-to-end Machine Learning pipeline utilizing a **CART (Classification and Regression Trees) Decision Tree** model to predict whether a loan customer is likely to become **delinquent**. By identifying high-risk borrowers early, financial institutions can proactively mitigate credit risks, optimize monitoring strategies, and reduce potential credit defaults.
 
 ---
 
